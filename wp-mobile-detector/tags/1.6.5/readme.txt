@@ -1,0 +1,119 @@
+=== WP Mobile Detector ===
+Tags: mobile, pda, wireless, cellphone, phone, iphone, touch, webkit, android, blackberry, ipod, mobile phone, ipad
+Contributors: Websitez.com
+Minimum version: 2.7
+Requires at least: 2.7
+Tested up to: 3.0.2
+Stable tag: 1.6.5
+
+WP Mobile Detector automatically detects standard and advanced mobile devices and displays a compatible wordpress mobile theme.
+
+== Description ==
+
+The WP Mobile Detector WordPress plugin automatically detects if the visitor is using a standard mobile phone or a smart phone and loads a compatible WordPress mobile theme for each.
+
+It is one of the first to differentiate between a standard mobile phone and a smart phone. With advanced mobile statistics, image resizing, automatically formatted content, and detection of 5,000+ mobile phones, the WP Mobile Detector gives your mobile visitors the experience they desire.
+
+The WP Mobile Detector plugin also includes an installer that will configure everything automatically. All you have to do is install and activate the plugin.
+
+Included in this plugin is the Anakin Mobile, Casper Mobile, Colbalt Mobile, Mojo Mobile, and Viper Mobile advanced mobile themes, all featuring the jQuery mobile framework. Impress your visitors with collapsible menus, dynamic page loading, cross-platform compatibility, touch-optimized layouts, widgets, and more.
+
+This plugin is compatible with most other mobile detection plugins. Use the WP Mobile Detector to ensure that you're detecting as many mobile devices as possible.
+
+* Automatic detection of mobile devices.
+* Differentiates between standard mobile devices and advanced mobile devices.
+* Detects over 5,000+ mobile devices.
+* Advanced mobile statistics including unique visitors, visits, mobile search engine bots, and more!
+* Automatically formats content and resizes images.
+* Select which theme to show to a standard mobile device and advanced mobile device.
+* Includes five advanced mobile themes and five basic mobile themes.
+
+== Installation ==
+
+1. Unzip and place the 'websitez-wp-mobile-detector' folder in your 'wp-content/plugins' directory
+2. Click the 'Activate' link for WP Mobile Detector on your Plugins page (in the WordPress administration page)
+
+== Frequently Asked Questions ==
+
+= I am getting an error that it was unable to install correctly. What do I do? =
+
+Please try deactivating and reactivating the plugin. If that does not work, please contact support@websitez.com and we will help you get the plugin installed.
+
+= Images are not showing for advanced mobile devices =
+
+This is most likely due to folder permissions being incorrect.
+
+Please set permissions for the 'cache' folder located inside of the 'plugins/wp-mobile-detector' folder to 777.
+
+== Screenshots ==
+
+1. WordPress Administration Settings
+2. Advanced Mobile Statistics
+3. Advanced Visitor Details
+4. Jester Mobile Theme
+5. Casper Mobile Theme
+6. Colbalt Mobile Theme
+7. Mojo Mobile Theme
+8. Viper Mobile Theme
+9. Anakin Mobile Theme
+
+== Changelog ==
+
+= 1.6.5 =
+
++ Fixed long header title overflow issue.
++ Tested compatibility with latest WordPress 3.0.2
++ Confirmed to be compatible with most other mobile detection plugins
++ Fixed PHP notice that cookie had not been set yet
++ Added Durden Mobile WordPress Theme
++ Fixed bug on statistics page for 'Last 7 Days' and 'Month-To-Date'
++ Added fix for undefined function 'search_theme_directories'
+
+= 1.6.4 =
+
++ Added support for PHP4
+
+= 1.6.3 =
+
++ Minified basic mobile theme stylesheet
+
+= 1.6.2 =
+
++ Adjusted all 5 themes to toggle header menu button and post excerpt buttons.
++ Reduced basic theme page size by over 30%
++ Basic Mobile Themes validate 100% against the XHTML Mobile Profile
+
+= 1.6.1 =
+
++ Fixed administration bug on the stats page that prevented the chart from displaying.
+
+= 1.6 =
+
++ Removed footer information from mobile themes
++ Removed footer information from standard themes
+
+= 1.5 =
+
++ Added the ability to configure the use of pre-installed templates or standard templates.
+
+= 1.4 = 
+
++ Adjusted the FAQ
+
+= 1.3 =
+
++ Added more screenshots
+
+= 1.2 =
+
++ Added screenshots and adjusted plugin description
+
+= 1.1 =
+
++ Fixed improper call in administration page.
+
++ Fixed a foreach error on the statistics page.
+
+= 1.0 =
+
++ Release of plugin.

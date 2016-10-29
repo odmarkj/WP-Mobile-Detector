@@ -1,0 +1,131 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: Helvetica;
+}
+.phone-container{
+	float: left;
+	margin-right: 8px;
+}
+.iphone{
+	position: fixed;
+	background: url('../images/iphone-blk.jpg') no-repeat;
+	width: 397px;
+	height: 742px;
+	z-index: 15;
+}
+.iphone-box{
+	position: relative;
+	top: 157px;
+	left: 39px;
+	height: 416px;
+	width: 320px;
+}
+.iphone6{
+	position: fixed;
+	background: url('../images/iphone6.jpg') no-repeat;
+	background-position: 0px 0px;
+	width: 400px;
+	height: 717px;
+	z-index: 15;
+}
+.iphone6-box{
+	position: relative;
+	top: 99px;
+	left: 28px;
+	height: 519px;
+	width: 344px;
+}
+.tools-menu{
+	margin-top: 23px;
+}
+.tools-menu h2{
+	font-size: 28px;
+	padding: 0px 0px 10px;
+}
+.tools-container{
+	text-align: left;
+	padding-top: 10px;
+}
+.tools-box{
+
+}
+.tools-nav{
+	float: left;
+}
+.tools-nav-list{
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	border-top: 3px solid #999999;
+	border-right: 1px solid #999999;
+	min-height: 675px;
+}
+.tools-nav-list li{
+	padding: 5px;
+	margin: 0;
+	background-color: #dddddd;
+	border-left: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+}
+.tools-nav-list li a{
+	margin: 0;
+	color: #333333;
+	font-size: 14px;
+	text-decoration: none;
+}
+.tools-nav-list li a:hover{
+	color: #666666;
+}
+.tools-nav-list .selected{
+	background-color: #f1f1f1;
+	width: 190px;
+}
+.tools-work{
+	border-bottom: 1px solid #999999;
+	border-right: 1px solid #999999;
+	border-top: 3px solid #999999;
+	background-color: #f1f1f1;
+	float: left;
+	width: 500px;
+	min-height: 675px;
+}
+.tools-work-box{
+	display: none;
+	border: 1px solid #cccccc;
+	background-color: #ffffff;
+	padding: 10px;
+	margin: 10px;
+}
+.tools-work-box h2{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.tools-work-box .desc{
+	font: italic 15px Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	margin-top: 5px;
+	padding: 0px;
+}
+.tools-work-box-sub{
+	padding: 10px;
+	background-color: #e4e4e4;
+	border: 1px solid #cccccc;
+	margin-bottom: 10px;
+}
+.tools-work-box-sub h2{
+	font-size: 16px;
+}
+.tools-work-box-other{
+	padding: 10px;
+	background-color: #e4e4e4;
+	border: 1px solid #cccccc;
+	margin-bottom: 10px;
+}
+.tools-work-box-other h2{
+	font-size: 16px;
+}

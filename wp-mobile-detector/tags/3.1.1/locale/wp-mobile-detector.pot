@@ -1,0 +1,1158 @@
+# Copyright (C) 2015 WP Mobile Detector Mobile Plugin
+# This file is distributed under the same license as the WP Mobile Detector Mobile Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Mobile Detector Mobile Plugin 1.8\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-mobile-"
+"detector\n"
+"POT-Creation-Date: 2015-05-07 19:57:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/admin-page.php:83
+msgid "What's New"
+msgstr ""
+
+#: admin/admin-page.php:84
+msgid "Mobile Theme Settings"
+msgstr ""
+
+#: admin/admin-page.php:86
+msgid "Upgrade To PRO"
+msgstr ""
+
+#: admin/themes.php:412
+msgid "Save Changes"
+msgstr ""
+
+#: admin/themes.php:424
+msgid "Customize Your Mobile Website"
+msgstr ""
+
+#: admin/themes.php:426
+msgid ""
+"This page allows you to customize the look and feel for your entire mobile "
+"website."
+msgstr ""
+
+#: admin/themes.php:429 admin/themes.php:440
+msgid "General"
+msgstr ""
+
+#: admin/themes.php:430
+msgid "Theme"
+msgstr ""
+
+#: admin/themes.php:431 themes/wz-mobile/sidebar-left_home.php:55
+msgid "Menu"
+msgstr ""
+
+#: admin/themes.php:432
+msgid "Ads"
+msgstr ""
+
+#: admin/themes.php:433
+msgid "Stats"
+msgstr ""
+
+#: admin/themes.php:434
+msgid "App"
+msgstr ""
+
+#: admin/themes.php:435
+msgid "Misc"
+msgstr ""
+
+#: admin/themes.php:443
+msgid "Select the home page for mobile visitors:"
+msgstr ""
+
+#: admin/themes.php:446
+msgid "WordPress Default"
+msgstr ""
+
+#: admin/themes.php:455
+msgid ""
+"This gives you the ability to change the home page only for mobile visitors. "
+"Please note that page templates from your desktop theme are not available."
+msgstr ""
+
+#: admin/themes.php:461
+msgid ">How many posts should be shown per page?"
+msgstr ""
+
+#: admin/themes.php:468
+msgid "Change your header text for your mobile website:"
+msgstr ""
+
+#: admin/themes.php:472
+msgid ""
+"Sometimes a really long header can cause issues on the smaller screen of a "
+"mobile device."
+msgstr ""
+
+#: admin/themes.php:478
+msgid "Show this mobile theme to tablet devices?"
+msgstr ""
+
+#: admin/themes.php:484 functions.php:305
+msgid "Settings"
+msgstr ""
+
+#: admin/themes.php:487
+msgid "Disable this plugin?"
+msgstr ""
+
+#: admin/themes.php:494
+msgid "Redirect mobile visitors to a specific URL?"
+msgstr ""
+
+#: admin/themes.php:498
+msgid "Enter the Website URL to redirect mobile visitors to:"
+msgstr ""
+
+#: admin/themes.php:507
+msgid "Enable mobile statistics?"
+msgstr ""
+
+#: admin/themes.php:514
+msgid "Display \"Powered by WP Mobile Detector\" in the footer?"
+msgstr ""
+
+#: admin/themes.php:520
+msgid "Social Media"
+msgstr ""
+
+#: admin/themes.php:523
+msgid "Do you have a Twitter profile?"
+msgstr ""
+
+#: admin/themes.php:533
+msgid "Do you have a Facebook profile?"
+msgstr ""
+
+#: admin/themes.php:542
+msgid "Sharing"
+msgstr ""
+
+#: admin/themes.php:545
+msgid "Enable sharing plugin?"
+msgstr ""
+
+#: admin/themes.php:548
+msgid ""
+"This will place a small button fixed on the screen to allow the visitor to "
+"easily share your webpages."
+msgstr ""
+
+#: admin/themes.php:552
+msgid "Please select the icons you would like shown to the visitor."
+msgstr ""
+
+#: admin/themes.php:559
+msgid ""
+"Select one or more page types you would like the sharing plugin to show on."
+msgstr ""
+
+#: admin/themes.php:562
+msgid "Home Page"
+msgstr ""
+
+#: admin/themes.php:565
+msgid "Posts+"
+msgstr ""
+
+#: admin/themes.php:568 default-widgets.php:48 default-widgets.php:54
+#: themes/wz-mobile/sidebar-left_home.php:9
+msgid "Pages"
+msgstr ""
+
+#: admin/themes.php:571 default-widgets.php:449 default-widgets.php:455
+#: themes/wz-mobile/sidebar-right_home.php:16
+msgid "Categories"
+msgstr ""
+
+#: admin/themes.php:574 default-widgets.php:249 default-widgets.php:256
+msgid "Archives"
+msgstr ""
+
+#: admin/themes.php:578
+msgid "Exclude pages by entering their ID's separated by commas."
+msgstr ""
+
+#: admin/themes.php:580
+msgid ""
+"This will prevent the share plugin from being shown on these posts+/pages "
+"etc."
+msgstr ""
+
+#: admin/themes.php:590
+msgid "Select your mobile theme:"
+msgstr ""
+
+#: admin/themes.php:598
+msgid ""
+"This is the mobile theme that will be used for mobile visitors. Any theme "
+"located in \"wp-content/themes\" and \"wp-content/plugins/a-wp-mobile-"
+"detector/themes\" will show up here. Only the <strong>WZ Mobile</strong>, "
+"<strong>Websitez Mobile</strong> and <strong>Corporate Mobile</strong> can "
+"be modified by the interactive theme editor."
+msgstr ""
+
+#: admin/themes.php:607
+msgid "Typography"
+msgstr ""
+
+#: admin/themes.php:610
+msgid "Select a standard font:"
+msgstr ""
+
+#: admin/themes.php:614
+msgid "Helvetica Neue"
+msgstr ""
+
+#: admin/themes.php:614
+msgid "Georgia"
+msgstr ""
+
+#: admin/themes.php:614
+msgid "Tahoma"
+msgstr ""
+
+#: admin/themes.php:614
+msgid "Verdana"
+msgstr ""
+
+#: admin/themes.php:621
+msgid "This is the font that will be used for the mobile webpage."
+msgstr ""
+
+#: admin/themes.php:626
+msgid "Select The Colors"
+msgstr ""
+
+#: admin/themes.php:640
+msgid "Top Header Color"
+msgstr ""
+
+#: admin/themes.php:642
+msgid "Content Area Accent"
+msgstr ""
+
+#: admin/themes.php:644
+msgid "Header & Post Color"
+msgstr ""
+
+#: admin/themes.php:646
+msgid "Standard Link Color"
+msgstr ""
+
+#: admin/themes.php:648
+msgid "Post Background"
+msgstr ""
+
+#: admin/themes.php:650
+msgid "Logo Text Font Color"
+msgstr ""
+
+#: admin/themes.php:661
+msgid "Custom Styles"
+msgstr ""
+
+#: admin/themes.php:668
+msgid "Add custom styles to the mobile theme here."
+msgstr ""
+
+#: admin/themes.php:672
+msgid ""
+"This can be used to quickly modify the style of your mobile theme without "
+"having to edit the theme files. Do not include the style tags. It may be "
+"necessary to include \"!important\" in your styles to have them work "
+"properly from here."
+msgstr ""
+
+#: admin/themes.php:677
+msgid "Customize The Graphics"
+msgstr ""
+
+#: admin/themes.php:693
+msgid "Delete the logo?"
+msgstr ""
+
+#: admin/themes.php:706
+msgid "Upload a logo"
+msgstr ""
+
+#: admin/themes.php:713
+msgid "Upload a logo to be placed in the header of the mobile website."
+msgstr ""
+
+#: admin/themes.php:724
+msgid "Delete the background image?"
+msgstr ""
+
+#: admin/themes.php:736
+msgid ""
+"Upload a custom background image for the <strong>Corporate Mobile</strong> "
+"mobile theme."
+msgstr ""
+
+#: admin/themes.php:754
+msgid "Select a background image for your mobile website."
+msgstr ""
+
+#: admin/themes.php:783
+msgid "Select a header icon for your mobile website."
+msgstr ""
+
+#: admin/themes.php:807
+msgid "Customize The Menu"
+msgstr ""
+
+#: admin/themes.php:811
+msgid ""
+"Each of the options below can be dragged and dropped to change the order "
+"they appear on the mobile website."
+msgstr ""
+
+#: admin/themes.php:826
+msgid "Show a custom navigation menu?"
+msgstr ""
+
+#: admin/themes.php:832
+msgid "Select one of your existing theme menus from Appearance -> Menus."
+msgstr ""
+
+#: admin/themes.php:836
+msgid "Please select one..."
+msgstr ""
+
+#: admin/themes.php:854
+msgid "Show pages on the menu?"
+msgstr ""
+
+#: admin/themes.php:858
+msgid "Select which pages will show, and in which order they will show."
+msgstr ""
+
+#: admin/themes.php:874 admin/themes.php:907
+msgid "Drag and drop each of the times to change their order."
+msgstr ""
+
+#: admin/themes.php:887
+msgid "Show categories on the menu?"
+msgstr ""
+
+#: admin/themes.php:891
+msgid "Select which categories will show, and in which order they will show."
+msgstr ""
+
+#: admin/themes.php:920
+msgid "Show the search box?"
+msgstr ""
+
+#: admin/themes.php:933
+msgid "Show the meta information box?"
+msgstr ""
+
+#: admin/themes.php:945
+msgid "Mobile Advertising"
+msgstr ""
+
+#: admin/themes.php:948
+msgid "Place an ad at the top of your mobile website?"
+msgstr ""
+
+#: admin/themes.php:952 admin/themes.php:965 admin/themes.php:1248
+msgid "Enter a snippet of HTML/JavaScript."
+msgstr ""
+
+#: admin/themes.php:961
+msgid "Place an ad at the bottom of your mobile website?"
+msgstr ""
+
+#: admin/themes.php:975
+msgid "Mobile Statistics"
+msgstr ""
+
+#: admin/themes.php:979
+msgid ""
+"The chart below shows the number of mobile visitors to your website based on "
+"the type of device they used. An <strong>advanced</strong> device has a "
+"modern browser (smart phone), a <strong>basic</strong> device has a simple "
+"browser (flip phone)."
+msgstr ""
+
+#: admin/themes.php:982
+msgid "Showing mobile statistics for:"
+msgstr ""
+
+#: admin/themes.php:983
+msgid "Today"
+msgstr ""
+
+#: admin/themes.php:984
+msgid "Last 7 Days"
+msgstr ""
+
+#: admin/themes.php:985
+msgid "Month-To-Date"
+msgstr ""
+
+#: admin/themes.php:997
+msgid "Enable App mode for your mobile website?"
+msgstr ""
+
+#: admin/themes.php:1000
+msgid ""
+"This will make your website appear like an App when added to a home screen "
+"on iOS and Android devices."
+msgstr ""
+
+#: admin/themes.php:1004
+msgid "iOS"
+msgstr ""
+
+#: admin/themes.php:1007 admin/themes.php:1260 admin/themes.php:1348
+msgid "PRO ONLY"
+msgstr ""
+
+#: admin/themes.php:1010
+msgid "Do you want to promote your iOS app?"
+msgstr ""
+
+#: admin/themes.php:1016
+msgid "Enter your app's"
+msgstr ""
+
+#: admin/themes.php:1028
+msgid "Delete the iOS icon?"
+msgstr ""
+
+#: admin/themes.php:1036
+msgid "Upload an iOS icon (180x180 PNG)"
+msgstr ""
+
+#: admin/themes.php:1043 admin/themes.php:1183
+msgid "This is the image that will appear on the home screen."
+msgstr ""
+
+#: admin/themes.php:1054
+msgid "Delete the iPhone startup screen?"
+msgstr ""
+
+#: admin/themes.php:1067
+msgid "Upload an image for the iPhone startup screen (320x460 PNG)"
+msgstr ""
+
+#: admin/themes.php:1082
+msgid "Delete the retina iPhone startup screen?"
+msgstr ""
+
+#: admin/themes.php:1095
+msgid "Upload an image for the retina iPhone startup screen (640x920 PNG)"
+msgstr ""
+
+#: admin/themes.php:1110
+msgid "Delete the iPhone 5 startup screen?"
+msgstr ""
+
+#: admin/themes.php:1123
+msgid "Upload an image for the iPhone 5 startup screen (640x1096 PNG)"
+msgstr ""
+
+#: admin/themes.php:1138
+msgid "Delete the iPhone 6 startup screen?"
+msgstr ""
+
+#: admin/themes.php:1151
+msgid "Upload an image for the iPhone 6 startup screen (750x1294 PNG)"
+msgstr ""
+
+#: admin/themes.php:1160
+msgid "Android"
+msgstr ""
+
+#: admin/themes.php:1168
+msgid "Delete the Android icon?"
+msgstr ""
+
+#: admin/themes.php:1176
+msgid "Upload an Android icon (96x96)"
+msgstr ""
+
+#: admin/themes.php:1190
+msgid "Theme Fine Tuning"
+msgstr ""
+
+#: admin/themes.php:1200
+msgid "Hide comments completely from the mobile visitors?"
+msgstr ""
+
+#: admin/themes.php:1203
+msgid "This will remove all references to comments from the mobile website."
+msgstr ""
+
+#: admin/themes.php:1208
+msgid "Hide references to authors?"
+msgstr ""
+
+#: admin/themes.php:1211
+msgid "This will remove all references to authors from the mobile website."
+msgstr ""
+
+#: admin/themes.php:1216
+msgid "Hide references to post/page creation dates?"
+msgstr ""
+
+#: admin/themes.php:1219
+msgid ""
+"This will remove all references to creation dates from the mobile website."
+msgstr ""
+
+#: admin/themes.php:1224
+msgid "Hide references to categories?"
+msgstr ""
+
+#: admin/themes.php:1227
+msgid "This will remove all references to categories from the mobile website."
+msgstr ""
+
+#: admin/themes.php:1232
+msgid "Hide references to tags?"
+msgstr ""
+
+#: admin/themes.php:1235
+msgid "This will remove all references to tags from the mobile website."
+msgstr ""
+
+#: admin/themes.php:1241
+msgid "Analytics"
+msgstr ""
+
+#: admin/themes.php:1244
+msgid "Place HTML/JavaScript analytics code on the mobile website."
+msgstr ""
+
+#: admin/themes.php:1256
+msgid "Compatibility"
+msgstr ""
+
+#: admin/themes.php:1266
+msgid "Disable active plugins for mobile visitors?"
+msgstr ""
+
+#: admin/themes.php:1270
+msgid "Select the plugins you would like to disable for mobile visitors:"
+msgstr ""
+
+#: admin/themes.php:1294
+msgid ""
+"To disable a plugin, it may require your FTP credentials. You will be "
+"prompted for them if this is the case."
+msgstr ""
+
+#: admin/themes.php:1305
+msgid "Remove shortcodes from the mobile website?"
+msgstr ""
+
+#: admin/themes.php:1309
+msgid "Enter a comma separated list of short codes to remove."
+msgstr ""
+
+#: admin/themes.php:1313
+msgid ""
+"If you see a shortcode on a mobile page, add it here, and it will be removed."
+msgstr ""
+
+#: admin/themes.php:1321
+msgid "Load the functions.php file from the current desktop theme?"
+msgstr ""
+
+#: admin/themes.php:1325
+msgid ""
+"Shortcodes, filters, photo galleries, and many other features for your pages "
+"and posts may rely on your desktop theme. This feature attempts to make them "
+"work for your mobile website as well."
+msgstr ""
+
+#: admin/themes.php:1329
+msgid ""
+"Please select the method you would like to use to include the desktop "
+"functions file."
+msgstr ""
+
+#: admin/themes.php:1332
+msgid "Direct"
+msgstr ""
+
+#: admin/themes.php:1333
+msgid "Translate"
+msgstr ""
+
+#: admin/themes.php:1336
+msgid ""
+"If it is a complex functions.php file, or you receive errors, please select "
+"the \"Translate\" method."
+msgstr ""
+
+#: admin/themes.php:1344
+msgid "Backup"
+msgstr ""
+
+#: admin/themes.php:1354
+msgid "Download a backup of your settings right now."
+msgstr ""
+
+#: admin/themes.php:1356
+msgid ""
+"A prompt to a text file download will occur. Store this file in a safe and "
+"secure location."
+msgstr ""
+
+#: admin/themes.php:1357
+msgid "Download Now"
+msgstr ""
+
+#: admin/themes.php:1362
+msgid "Restore settings from the contents of a backup file."
+msgstr ""
+
+#: admin/themes.php:1369
+msgid "Copy and paste the contents of your backup file here."
+msgstr ""
+
+#: admin/themes.php:1379
+msgid "The actual appearance of your site may vary slightly."
+msgstr ""
+
+#: admin/themes.php:1383
+msgid "Add your"
+msgstr ""
+
+#: admin/themes.php:1383
+msgid "rating for"
+msgstr ""
+
+#: admin/themes.php:1802
+msgid "Interact With Your Live Mobile Website Below!"
+msgstr ""
+
+#: default-widgets.php:47
+msgid "Your site&#8217;s WordPress Pages"
+msgstr ""
+
+#: default-widgets.php:94 default-widgets.php:227 default-widgets.php:291
+#: default-widgets.php:344 default-widgets.php:384 default-widgets.php:430
+#: default-widgets.php:514 default-widgets.php:610 default-widgets.php:703
+#: default-widgets.php:1047 default-widgets.php:1126
+msgid "Title:"
+msgstr ""
+
+#: default-widgets.php:96
+msgid "Sort by:"
+msgstr ""
+
+#: default-widgets.php:98
+msgid "Page title"
+msgstr ""
+
+#: default-widgets.php:99
+msgid "Page order"
+msgstr ""
+
+#: default-widgets.php:100
+msgid "Page ID"
+msgstr ""
+
+#: default-widgets.php:104
+msgid "Exclude:"
+msgstr ""
+
+#: default-widgets.php:106
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: default-widgets.php:121
+msgid "Your blogroll"
+msgstr ""
+
+#: default-widgets.php:122
+msgid "Links"
+msgstr ""
+
+#: default-widgets.php:136 default-widgets.php:174
+msgid "All Links"
+msgstr ""
+
+#: default-widgets.php:172
+msgid "Select Link Category"
+msgstr ""
+
+#: default-widgets.php:185
+msgid "Show Link Image"
+msgstr ""
+
+#: default-widgets.php:187
+msgid "Show Link Name"
+msgstr ""
+
+#: default-widgets.php:189
+msgid "Show Link Description"
+msgstr ""
+
+#: default-widgets.php:191
+msgid "Show Link Rating"
+msgstr ""
+
+#: default-widgets.php:205
+msgid "A search form for your site"
+msgstr ""
+
+#: default-widgets.php:206 themes/wz-mobile/sidebar-right_home.php:9
+msgid "Search"
+msgstr ""
+
+#: default-widgets.php:248
+msgid "A monthly archive of your site&#8217;s posts"
+msgstr ""
+
+#: default-widgets.php:264
+msgid "Select Month"
+msgstr ""
+
+#: default-widgets.php:293 default-widgets.php:521
+msgid "Show post counts"
+msgstr ""
+
+#: default-widgets.php:295
+msgid "Display as a drop down"
+msgstr ""
+
+#: default-widgets.php:311
+msgid "Log in/out, admin, feed and WordPress links"
+msgstr ""
+
+#: default-widgets.php:312 default-widgets.php:317
+#: themes/wz-mobile/sidebar-left_home.php:33
+msgid "Meta"
+msgstr ""
+
+#: default-widgets.php:325
+msgid "Syndicate this site using RSS 2.0"
+msgstr ""
+
+#: default-widgets.php:325
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: default-widgets.php:326
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: default-widgets.php:326
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: default-widgets.php:327
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: default-widgets.php:357
+msgid "A calendar of your site&#8217;s posts"
+msgstr ""
+
+#: default-widgets.php:358
+msgid "Calendar"
+msgstr ""
+
+#: default-widgets.php:398
+msgid "Arbitrary text or HTML"
+msgstr ""
+
+#: default-widgets.php:400
+msgid "Text"
+msgstr ""
+
+#: default-widgets.php:435
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: default-widgets.php:448
+msgid "A list or dropdown of categories"
+msgstr ""
+
+#: default-widgets.php:467
+msgid "Select Category"
+msgstr ""
+
+#: default-widgets.php:518
+msgid "Show as dropdown"
+msgstr ""
+
+#: default-widgets.php:524
+msgid "Show hierarchy"
+msgstr ""
+
+#: default-widgets.php:538
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: default-widgets.php:539 default-widgets.php:561
+msgid "Recent Posts"
+msgstr ""
+
+#: default-widgets.php:613
+msgid "Number of posts to show:"
+msgstr ""
+
+#: default-widgets.php:627
+msgid "The most recent comments"
+msgstr ""
+
+#: default-widgets.php:628 default-widgets.php:662
+msgid "Recent Comments"
+msgstr ""
+
+#. translators: comments widget: 1: comment author, 2: post link
+#: default-widgets.php:676
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: default-widgets.php:706
+msgid "Number of comments to show:"
+msgstr ""
+
+#: default-widgets.php:720
+msgid "Entries from any RSS or Atom feed"
+msgstr ""
+
+#: default-widgets.php:722
+msgid "RSS"
+msgstr ""
+
+#: default-widgets.php:754
+msgid "Unknown Feed"
+msgstr ""
+
+#: default-widgets.php:760
+msgid "Syndicate this content"
+msgstr ""
+
+#: default-widgets.php:808
+msgid "<strong>RSS Error</strong>: %s"
+msgstr ""
+
+#: default-widgets.php:824
+msgid "An error has occurred; the feed is probably down. Try again later."
+msgstr ""
+
+#: default-widgets.php:837
+msgid "Untitled"
+msgstr ""
+
+#: default-widgets.php:919
+msgid "RSS Error: %s"
+msgstr ""
+
+#: default-widgets.php:923
+msgid "Enter the RSS feed URL here:"
+msgstr ""
+
+#: default-widgets.php:926
+msgid "Give the feed a title (optional):"
+msgstr ""
+
+#: default-widgets.php:929
+msgid "How many items would you like to display?"
+msgstr ""
+
+#: default-widgets.php:938
+msgid "Display item content?"
+msgstr ""
+
+#: default-widgets.php:941
+msgid "Display item author if available?"
+msgstr ""
+
+#: default-widgets.php:944
+msgid "Display item date?"
+msgstr ""
+
+#: default-widgets.php:1010
+msgid "Your most used tags in cloud format"
+msgstr ""
+
+#: default-widgets.php:1011
+msgid "Tag Cloud"
+msgstr ""
+
+#: default-widgets.php:1021 themes/wz-mobile/single.php:18
+msgid "Tags"
+msgstr ""
+
+#: default-widgets.php:1049
+msgid "Taxonomy:"
+msgstr ""
+
+#: default-widgets.php:1077
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr ""
+
+#: default-widgets.php:1078
+msgid "Custom Menu"
+msgstr ""
+
+#: default-widgets.php:1121
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: default-widgets.php:1130
+msgid "Select Menu:"
+msgstr ""
+
+#: functions.php:55
+msgid "Once Monthly"
+msgstr ""
+
+#: functions.php:1529
+msgid "File not readable."
+msgstr ""
+
+#: functions.php:1584
+msgid "Template is missing."
+msgstr ""
+
+#: functions.php:1586
+msgid "The parent theme is missing. Please install the \"%s\" parent theme."
+msgstr ""
+
+#: themes/anakin-mobile/archive.php:44 themes/anakin-mobile/index.php:45
+#: themes/anakin-mobile/page.php:53 themes/anakin-mobile/search.php:44
+#: themes/anakin-mobile/single.php:53 themes/bluesteel-mobile/archive.php:45
+#: themes/bluesteel-mobile/category.php:37
+#: themes/bluesteel-mobile/index.php:36 themes/bluesteel-mobile/page.php:32
+#: themes/bluesteel-mobile/search.php:37 themes/bluesteel-mobile/single.php:33
+#: themes/casper-mobile/archive.php:42 themes/casper-mobile/index.php:43
+#: themes/casper-mobile/page.php:53 themes/casper-mobile/search.php:42
+#: themes/casper-mobile/single.php:53 themes/colbalt-mobile/archive.php:42
+#: themes/colbalt-mobile/index.php:43 themes/colbalt-mobile/page.php:53
+#: themes/colbalt-mobile/search.php:42 themes/colbalt-mobile/single.php:53
+#: themes/jester-mobile/archive.php:45 themes/jester-mobile/category.php:37
+#: themes/jester-mobile/index.php:36 themes/jester-mobile/page.php:32
+#: themes/jester-mobile/search.php:37 themes/jester-mobile/single.php:33
+#: themes/mojo-mobile/archive.php:42 themes/mojo-mobile/index.php:43
+#: themes/mojo-mobile/page.php:53 themes/mojo-mobile/search.php:42
+#: themes/mojo-mobile/single.php:53 themes/viper-mobile/archive.php:42
+#: themes/viper-mobile/index.php:43 themes/viper-mobile/page.php:53
+#: themes/viper-mobile/search.php:42 themes/viper-mobile/single.php:53
+msgid "No posts are added."
+msgstr ""
+
+#: themes/anakin-mobile/comments.php:27
+#: themes/bluesteel-mobile/comments.php:22
+#: themes/casper-mobile/comments.php:64 themes/colbalt-mobile/comments.php:64
+#: themes/jester-mobile/comments.php:52 themes/mojo-mobile/comments.php:64
+#: themes/viper-mobile/comments.php:64 themes/wz-mobile/comments.php:46
+msgid "Password Protected"
+msgstr ""
+
+#: themes/anakin-mobile/comments.php:28
+#: themes/bluesteel-mobile/comments.php:23
+#: themes/casper-mobile/comments.php:65 themes/colbalt-mobile/comments.php:65
+#: themes/jester-mobile/comments.php:53 themes/mojo-mobile/comments.php:65
+#: themes/viper-mobile/comments.php:65 themes/wz-mobile/comments.php:47
+msgid "Enter the password to view comments."
+msgstr ""
+
+#: themes/anakin-mobile/functions.php:36
+#: themes/bluesteel-mobile/functions.php:26
+#: themes/casper-mobile/functions.php:36
+#: themes/colbalt-mobile/functions.php:36
+#: themes/jester-mobile/functions.php:26 themes/mojo-mobile/functions.php:36
+#: themes/viper-mobile/functions.php:36 themes/wz-mobile/functions.php:154
+msgid "This comment is awaiting moderation."
+msgstr ""
+
+#: themes/anakin-mobile/page.php:29 themes/anakin-mobile/single.php:29
+#: themes/casper-mobile/page.php:29 themes/casper-mobile/single.php:29
+#: themes/colbalt-mobile/page.php:29 themes/colbalt-mobile/single.php:29
+#: themes/mojo-mobile/page.php:29 themes/mojo-mobile/single.php:29
+#: themes/viper-mobile/page.php:29 themes/viper-mobile/single.php:29
+msgid "Posted by"
+msgstr ""
+
+#: themes/anakin-mobile/page.php:32 themes/anakin-mobile/single.php:32
+#: themes/casper-mobile/page.php:32 themes/casper-mobile/single.php:32
+#: themes/colbalt-mobile/page.php:32 themes/colbalt-mobile/single.php:32
+#: themes/mojo-mobile/page.php:32 themes/mojo-mobile/single.php:32
+#: themes/viper-mobile/page.php:32 themes/viper-mobile/single.php:32
+msgid "Category&#58; "
+msgstr ""
+
+#: themes/bluesteel-mobile/archive.php:4 themes/jester-mobile/archive.php:4
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: themes/bluesteel-mobile/archive.php:6 themes/jester-mobile/archive.php:6
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: themes/bluesteel-mobile/archive.php:8 themes/jester-mobile/archive.php:8
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: themes/bluesteel-mobile/archive.php:10 themes/jester-mobile/archive.php:10
+msgid "Blog Archives"
+msgstr ""
+
+#: themes/bluesteel-mobile/category.php:3 themes/jester-mobile/category.php:3
+msgid "Category: %s"
+msgstr ""
+
+#: themes/casper-mobile/comments.php:35 themes/colbalt-mobile/comments.php:35
+#: themes/mojo-mobile/comments.php:35 themes/viper-mobile/comments.php:35
+msgid "You can use these tags&#58;"
+msgstr ""
+
+#: themes/wz-mobile/404.php:5
+msgid "Oops!"
+msgstr ""
+
+#: themes/wz-mobile/404.php:6
+msgid "We're sorry, but we couldn't find what you were looking for."
+msgstr ""
+
+#: themes/wz-mobile/404.php:7
+msgid ""
+"Please try visiting the <a href=\"<?php echo get_option('home'); ?>\">home "
+"page</a> or try a search below:"
+msgstr ""
+
+#: themes/wz-mobile/404.php:9 themes/wz-mobile/sidebar-right_home.php:11
+msgid "Enter a keyword..."
+msgstr ""
+
+#: themes/wz-mobile/404.php:9 themes/wz-mobile/sidebar-right_home.php:11
+msgid "Go!"
+msgstr ""
+
+#: themes/wz-mobile/archive.php:13 themes/wz-mobile/single.php:17
+msgid "Category:"
+msgstr ""
+
+#: themes/wz-mobile/archive.php:17
+msgid "Tagged:"
+msgstr ""
+
+#: themes/wz-mobile/archive.php:21
+msgid "By:"
+msgstr ""
+
+#: themes/wz-mobile/archive.php:25
+msgid "Daily Archives:"
+msgstr ""
+
+#: themes/wz-mobile/archive.php:29
+msgid "Monthly Archives:"
+msgstr ""
+
+#: themes/wz-mobile/archive.php:33
+msgid "Yearly Archives:"
+msgstr ""
+
+#: themes/wz-mobile/comments.php:22
+msgid "Leave a Reply"
+msgstr ""
+
+#: themes/wz-mobile/comments.php:23
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: themes/wz-mobile/comments.php:24
+msgid "Cancel Reply"
+msgstr ""
+
+#: themes/wz-mobile/comments.php:25
+msgid "Post Comment"
+msgstr ""
+
+#: themes/wz-mobile/comments.php:26
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: themes/wz-mobile/comments.php:27
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: themes/wz-mobile/comments.php:28
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: themes/wz-mobile/comments.php:29
+msgid "Your email address will not be published."
+msgstr ""
+
+#: themes/wz-mobile/comments.php:32
+msgid "Name"
+msgstr ""
+
+#: themes/wz-mobile/comments.php:33
+msgid "Email"
+msgstr ""
+
+#: themes/wz-mobile/comments.php:34
+msgid "Website"
+msgstr ""
+
+#: themes/wz-mobile/sidebar-left_home.php:39
+msgid "Site Admin"
+msgstr ""
+
+#: themes/wz-mobile/sidebar-left_home.php:40
+msgid "Logout"
+msgstr ""
+
+#: themes/wz-mobile/sidebar-left_home.php:44
+msgid "Register"
+msgstr ""
+
+#: themes/wz-mobile/sidebar-left_home.php:45
+msgid "Login"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Mobile Detector Mobile Plugin"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.websitez.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The WP Mobile Detector wordpress mobile plugin automatically detects if the "
+"visitor is using a standard mobile phone or a smart phone and loads a "
+"compatible wordpress mobile theme for each. This mobile plugin is one of the "
+"first to differentiate between a standard mobile phone and a smart phone. "
+"With advanced mobile statistics, image resizing, automatically formatted "
+"content, and detection of 5,000+ mobile phones, the WP Mobile Detector gives "
+"your mobile visitors the experience they desire."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Websitez.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://websitez.com"
+msgstr ""
